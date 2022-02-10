@@ -7,11 +7,14 @@ body {
 
 
 .circle {
-    fill: lightgreen;
+    fill: green;
     width: 100px;
     height: 100px;
 }
 
-.circle:hover {
-    fill: mediumseagreen;
+.circle2 {
+    fill: blue;
+    width: 100px;
+    height: 100px;
 }
+
