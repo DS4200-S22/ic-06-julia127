@@ -1,0 +1,17 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+}
+
+
+.circle {
+    fill: lightgreen;
+    width: 100px;
+    height: 100px;
+}
+
+.circle:hover {
+    fill: mediumseagreen;
+}
